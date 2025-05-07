@@ -1,0 +1,25 @@
+[Host – Sarah]: Welcome back to “Future Forward,” the podcast where we explore what’s next in technology, business, and innovation. I’m your host, Sarah Lin, and today we’re talking about emerging industries in 2025 and beyond.
+
+[Guest – Dr. Arjun Mehta]: Thanks for having me, Sarah. Always excited to talk about where the world is heading.
+
+[Sarah]: Let’s start with a big one — artificial intelligence. It’s evolving so quickly. What trends are you seeing?
+
+[Dr. Mehta]: Absolutely. Generative AI is leading the charge right now — not just in content creation, but in code generation, drug discovery, and personalized education. Companies are racing to integrate AI agents that act autonomously within workflows.
+
+[Sarah]: That’s interesting — especially in education. How is AI transforming that space?
+
+[Dr. Mehta]: Personalized learning paths are a game-changer. AI tutors can now adapt in real-time to a student’s pace and style of learning. We’re also seeing large language models being fine-tuned for academic support — especially in underserved regions.
+
+[Sarah]: Another area that’s picking up is climate tech. What’s your take on its growth?
+
+[Dr. Mehta]: Climate tech is getting massive investor attention — from carbon capture startups to renewable energy storage. One emerging niche is “energy-as-a-service,” where companies manage power consumption dynamically using AI.
+
+[Sarah]: And what about biotech?
+
+[Dr. Mehta]: Synthetic biology is exploding. Think lab-grown meat, programmable cells, and biofabrication. It’s not just health — it's food, materials, even fashion. We’re seeing CRISPR-based startups scaling production for real-world solutions.
+
+[Sarah]: Fascinating. So, if you were a student or entrepreneur listening to this — where should they start?
+
+[Dr. Mehta]: Look for convergence. AI + biotech. Climate + IoT. The future won’t be siloed — it’ll be hybrid. And don’t ignore policy — regulations will shape how fast these industries scale.
+
+[Sarah]: Great advice. Thanks so much, Dr. Mehta. That wraps up today’s episode on emerging industries. Be sure to follow us for more insights every week.
