@@ -2,9 +2,12 @@ import streamlit as st
 import openai
 import whisper
 import os
+from dotenv import load_dotenv
 
-# Set your OpenAI API key
-openai.api_key = "AIzaSyA8fmTON2w1xKaF5peKTEok8BSyJpWdPq4"
+# Load environment variables from a .env file
+load_dotenv()
+# Set your OpenAI API key securely
+openai.api_key = os.getenv("SummarizerAPI_KEY")
 
 # Load Whisper model (you can change to 'medium' or 'large' if needed)
 @st.cache_resource
